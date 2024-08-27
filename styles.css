@@ -35,11 +35,13 @@ body {
 }
 
 .card p {
-  font-size: large;
-  font-weight: bold;
+  font-size: larger;
+  font-weight: 900;
   color: hsl(200, 7%, 8%);
   margin: 5px;
   text-align: center;
+  width: 90%;
+  text-wrap: balance;
 }
 
 #secondp {
